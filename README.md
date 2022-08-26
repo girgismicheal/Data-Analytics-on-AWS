@@ -78,4 +78,9 @@ Digital Courses On AWS SkillBuilder
 | Best Practices for Data Warehousing with Amazon Redshift                                 | [Digital Course on AWS Skillbuilder](https://www.aws.training/Details/Video?id=26851)                                                                                                                                                                                                                               |
 | Serverless Analytics                                                                     | [Digital Course on AWS Skillbuilder](https://www.aws.training/Details/Video?id=26848)                                                                                                                                                                                                                               |
 
+Exam Preparation:
+----------------
+1. [AWS Certified Data Analytics Specialty 2022 - Hands On!](https://www.udemy.com/course/aws-data-analytics/)
+2. [Exam Topics Questions](https://www.examtopics.com/exams/amazon/aws-certified-data-analytics-specialty/)
+
 
