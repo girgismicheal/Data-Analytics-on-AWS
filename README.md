@@ -81,8 +81,8 @@ Digital Courses On AWS SkillBuilder
 Use Cases:
 ---------
 - [Data Integration using ML]()
-- [AI-Driven Social Media Dashboard](https://github.com/girgismicheal/AI-Driven-Social-Media-Dashboard/tree/main)
- 
+- [AI-Driven Social Media Dashboard](https://github.com/girgismicheal/AI-Driven-Social-Media-Dashboard/tree/main) and [My-Step-By-Step-Video-Record](https://drive.google.com/drive/folders/1POylvI2S2wWIMmW39OjwuVwUsVDhuXYl?usp=sharing)
+
 Exam Preparation:
 ----------------
 1. [AWS Certified Data Analytics Specialty 2022 - Hands On!](https://www.udemy.com/course/aws-data-analytics/)
